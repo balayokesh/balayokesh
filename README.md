@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Bala Yokesh
-- 👀 I’m interested in Software development, problem solving
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on web application projects or Data science apps
-- 📫 How to reach me: https://linkedin.com/in/balayokeshmani
+Hi I am Bala Yokesh.  I am currently pursuing my Computer Science and Engineering degree at Coimbatore.  I have interest in coding and developing software solutions for our daily life problems.  I play some games and read books at my free time.  
+
+![Bala Yokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=balayokesh)
