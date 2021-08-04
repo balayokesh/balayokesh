@@ -8,6 +8,6 @@ I am currently pursuing my Computer Science and Engineering degree at Coimbatore
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balayokesh)
 
 # Connect with me on:
-[Linked In](https://linkedin.com/in/balayokeshmani)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/balayokeshmani)
 
 
