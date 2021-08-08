@@ -7,6 +7,12 @@
   </i>
 </div>
 
+<br />
+
+<p align='center'>
+  <img src='https://komarev.com/ghpvc/?username=your-github-balayokesh&color=brightgreen' alt='Profile views'/>
+</p>
+
 ### My Github Streak 😎
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
