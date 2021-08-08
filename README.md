@@ -10,17 +10,29 @@
 <br />
 
 <p align='center'>
-  <img src='https://komarev.com/ghpvc/?username=your-github-balayokesh&color=brightgreen' alt='Profile views'/>
+  <img src='https://komarev.com/ghpvc/?username=your-github-balayokesh&color=brightgreen' alt='Profile views' align='center' />
 </p>
 
-### My Github Streak 😎
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<h3 align='center'>My Github Streak 😎</h3>
+<p align='center'>
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=balayokesh' align='center' />
+</p>
 
-### My Github stats 📈
-![Bala Yokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=balayokesh&hide=stars&count_private=true&show_icons=true)
+<h3 align='center'>My Github stats 📈</h3>
+<p align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=balayokesh&hide=stars&count_private=true&show_icons=true' align='center' />
+</p>
 
-### My top used programming languages 🥇
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balayokesh)
+<h3 align='center'>My top used programming languages 🥇</h3>
+<p align='center'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=balayokesh' />
+</p>
 
-### Connect with me on 🤝
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/balayokeshmani)
+<hr />
+
+<h3 align='center'>Connect with me on 🤝</h3>
+<p align='center'>
+  <a href='https://linkedin.com/in/balayokeshmani'>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
