@@ -15,17 +15,17 @@
 
 <h3 align='center'>My Github Streak 😎</h3>
 <p align='center'>
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=balayokesh' align='center' />
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=balayokesh&theme=dracula' align='center' />
 </p>
 
 <h3 align='center'>My Github stats 📈</h3>
 <p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=balayokesh&hide=stars&count_private=true&show_icons=true' align='center' />
+  <img src='https://github-readme-stats.vercel.app/api?username=balayokesh&hide=stars&count_private=true&show_icons=true&theme=dracula' align='center' />
 </p>
 
 <h3 align='center'>My top used programming languages 🥇</h3>
 <p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=balayokesh' />
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=balayokesh&theme=dracula' />
 </p>
 
 <hr />
