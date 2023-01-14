@@ -40,10 +40,8 @@
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' width='50' title='React' alt='React' />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg' width='50' title='MaterialUI' alt='MaterialUI' />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width='50' title='Java' alt='Java' />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' width='50' title='C' alt='C' />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg' width='50' title='Python' alt='Python' />
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg' width='50' title='PHP' alt='PHP' />
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg' width='50' title='Bash' alt='Bash' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width='50' title='Git' alt='Git' />
 </p>
   
