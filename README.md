@@ -3,7 +3,7 @@
     Hi, 👋 I am BALA YOKESH
   </h1>
   <i>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently pursuing my Computer Science and Engineering degree at Coimbatore.  I have interest in coding and developing software solutions for our daily life problems.  I play some games and read books at my free time.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a B.E. Computer Science and Engineering graduate.  I do web development, open source and freelancing.
   </i>
 </div>
 
