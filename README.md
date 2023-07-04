@@ -1,9 +1,9 @@
 <div align="center">
   <h1>
-    Hi, 👋 I am BALA YOKESH
+    Hi, 👋 I am Bala Yokesh
   </h1>
   <i>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a B.E. Computer Science and Engineering graduate.  I do web development, open source and freelancing.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a B.E. Computer Science and Engineering graduate.  I do <b>web development</b> and <b>open source</b>.
   </i>
 </div>
 
