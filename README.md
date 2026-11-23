@@ -67,15 +67,10 @@ Open to **team up for hackathons**. I ❤️ tech hackathons, music and tea ☕
 
 ## Featured Projects
 
-### [Automated Support Ticket Triage & Analytics Pipeline](https://github.com/balayokesh/enterprise-ticket-router)
-> Python · Pandas · Pydantic · OpenRouter (Llama 3.3 70B)
+### [Enterprise Ticket Router](https://github.com/balayokesh/enterprise-ticket-router)
+> Python · Pandas · Pydantic · OpenRouter (Llama 3.3 70B) · Flask
 
 An end-to-end pipeline that cleans raw support tickets, triages them with an LLM, and reports KPIs, escalation flags, urgency and sentiment breakdowns as executive summaries. Strict Pydantic JSON schemas, defensive parsing and null/NaN handling keep malformed model output and missing data from breaking the run.
-
-### [TransitFlow](https://transit-flow-frontend.vercel.app/)
-> AI bus route verification · Java · Google Gemini Vision · React · Docker
-
-Uses Gemini Vision to detect route mismatches from bus photos and alert TNSTC commuters in real time. Containerised, with rate limiting, logging and tracing. [Live demo](https://transit-flow-frontend.vercel.app/)
 
 ---
 
